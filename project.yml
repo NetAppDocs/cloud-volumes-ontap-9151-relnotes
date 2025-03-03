@@ -1,5 +1,6 @@
 settings:
   name: Cloud Volumes ONTAP
+  downlevel: true
   platform: cloud
   internal:
     pdf_enabled: true
@@ -8,6 +9,8 @@ settings:
     harmony_enabled: true
   versions:
     - version-number: "9.15.1"
+      url: /cloud-volumes-ontap-9151-relnotes
+    - version-number: "9.16.1"
       url: /cloud-volumes-ontap-relnotes
     - version-number: "9.15.0"
       url: /cloud-volumes-ontap-9150-relnotes      
