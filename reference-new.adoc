@@ -52,6 +52,11 @@ The 9.15.1 P7 patch is now available for Cloud Volumes ONTAP for all cloud provi
 
 link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.15.1P7[View the list of bugs fixed in the P7 patch^] (NetApp Support Site login required).
 
+== 9.15.1 P7 (10 March 2025)
+The 9.15.1 P7 patch is now available for Cloud Volumes ONTAP for all cloud providers. BlueXP will prompt you to upgrade your existing systems to this patch release.
+
+link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.15.1P7[View the list of bugs fixed in the P7 patch^] (NetApp Support Site login required).
+
 == 9.15.1 P6 (20 January 2025)
 The 9.15.1 P6 patch is now available for Cloud Volumes ONTAP for all cloud providers. BlueXP will prompt you to upgrade your existing systems to this patch release.
 
